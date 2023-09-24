@@ -2,6 +2,11 @@
 title: Links
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas purus viverra. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Potenti nullam ac tortor vitae. Vitae sapien pellentesque habitant morbi tristique. Aliquam sem et tortor consequat id porta nibh venenatis cras. Integer vitae justo eget magna fermentum iaculis eu. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Mattis enim ut tellus elementum sagittis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Ullamcorper malesuada proin libero nunc consequat interdum varius. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vitae tempus quam pellentesque nec nam aliquam sem et tortor.
-
-Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. Bibendum arcu vitae elementum curabitur vitae nunc. Ut sem nulla pharetra diam sit amet. Ac feugiat sed lectus vestibulum mattis ullamcorper. Eu volutpat odio facilisis mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque. Tincidunt dui ut ornare lectus sit amet. Sed augue lacus viverra vitae congue eu. Nisi lacus sed viverra tellus. Sed id semper risus in. Urna nunc id cursus metus aliquam.
+Google Scholar (https://scholar.google.de/citations?user=5QZWnr0AAAAJ)
+DBLP (https://dblp.org/pid/202/7294.html)
+Quora ID (https://id.quora.com/profile/Boma-Anantasatya-Adhi)
+Quora EN (https://www.quora.com/profile/Boma-Anantasatya-Adhi)
+X (https://twitter.com/bomaaa)
+Facebook (https://www.facebook.com/bomaaa)
+YouTube (https://www.youtube.com/@BomaAnantasatyaAdhi/)
+GitHub (https://github.com/bomaaa/)
